@@ -5,7 +5,13 @@
 
 ## About me
 
+<p>
+I am a Mechatronics Engineer transitioning into web development, driven by a strong enthusiasm to establish a career in this field. I am eager to enhance my programming skills, contribute to innovative technologies, and grow as a professional in the tech industry. </p>
+
 - 📲 Responsive Web Developer
+- ✅ Clean Code
+- 👨‍🔧 Trouble Shooting
+- 🤓 Best Practices
 
   <br>
 
