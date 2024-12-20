@@ -49,7 +49,7 @@
     <stron> React , TypeScript, Emotion Styled, Zustand, Tansatck and GraphQL, </stron>
 </p>
 </div>
-                                                                                      
+</table>                                                                                  
 </td>
 
 ### ⚙️ &nbsp;GitHub Analytics
